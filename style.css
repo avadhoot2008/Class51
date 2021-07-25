@@ -1,0 +1,41 @@
+h1{
+  color: black;
+  margin-left: 380px;
+  padding: 40px;
+  font-size: 50px;
+}
+/* *{
+  border: solid;
+}*/
+
+.header{
+  background-color: chocolate;
+  display: flex;
+  justify-content: "center";
+}
+
+.menu{
+  border: solid;
+}
+
+.grid{
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.footer{
+  display: flex;
+  justify-content: flex-start;
+}
+
+p,h2{
+  color: whitesmoke;
+  text-align: center;
+  font-size: larger;
+}
+
+.fullSite {
+  background-color: black;
+}
